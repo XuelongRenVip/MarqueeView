@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="MarequeeView">
+
+        <attr name="mvAnimDuration" format="integer"></attr>
+        <attr name="mvInterval" format="integer"></attr>
+        <attr name="mvTextSize" format="dimension"></attr>
+        <attr name="mvTextColor" format="color"></attr>
+        <attr name="mvSingleLine" format="boolean"></attr>
+
+    </declare-styleable>
+</resources>
